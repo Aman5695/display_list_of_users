@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/display_list_of_users/static/css/main.5e7731e2.css",
+    "main.js": "/display_list_of_users/static/js/main.c0c787e1.js",
+    "index.html": "/display_list_of_users/index.html",
+    "main.5e7731e2.css.map": "/display_list_of_users/static/css/main.5e7731e2.css.map",
+    "main.c0c787e1.js.map": "/display_list_of_users/static/js/main.c0c787e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e7731e2.css",
+    "static/js/main.c0c787e1.js"
+  ]
+}
