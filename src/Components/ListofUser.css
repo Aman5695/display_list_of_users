@@ -1,0 +1,10 @@
+.page_title{
+    text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  font-family: 'Cairo', sans-serif;
+  font-size: 3vw;
+  padding: 4px;
+  border-radius: 50px;
+  color: rgb(99, 95, 95);
+}
